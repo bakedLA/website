@@ -1,0 +1,16 @@
+set up analytics
+verify domain
+set up gh pages for hosting
+
+
+
+home
+about
+contact
+
+muffins
+cupcakes
+cakes
+pies
+cookies
+(breads)

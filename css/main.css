@@ -1,0 +1,57 @@
+header[role=banner] {
+  padding: 60px 0;
+}
+
+header[role=banner] h1,
+header[role=banner] h2 {
+  display: none;
+}
+
+.yumming-soon {
+  text-align: center;
+  font-weight: bold;
+  margin-top: -2em;
+  color: #333;
+  font-size: 2em;
+}
+
+@media (max-width: 979px) {
+  .yumming-soon {
+    font-size: 1.5em;
+  }
+}
+
+@media (max-width: 768px) {
+  .yumming-soon {
+    font-size: 1.25em;
+  }
+}
+
+@media (max-width: 480px) {
+  .yumming-soon {
+    font-size: 1em;
+  }
+}
+
+#about {
+  margin-top: 5em;
+}
+
+.h-card {
+  font-weight: bold;
+}
+
+.h-card .u-email {
+  border-right: 2px solid black;
+  padding-right: 1em;
+  margin-right: .7em;
+}
+
+.copyright {
+  text-align: right;
+}
+
+footer {
+  margin: 4em 0 2em 0;
+}
+
