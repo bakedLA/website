@@ -15,6 +15,11 @@ header[role=banner] h2 {
   font-size: 2em;
 }
 
+#homepage-carousel {
+  margin-top: .25em;
+  background: #222; /* TEMP FIXME for mobile, the text isn't lining up on top of the photo */
+}
+
 @media (max-width: 979px) {
   .yumming-soon {
     font-size: 1.5em;
@@ -37,7 +42,8 @@ header[role=banner] h2 {
   margin-top: 5em;
 }
 
-.h-card {
+.h-card .u-email,
+.h-card .p-tel {
   font-weight: bold;
 }
 
@@ -45,6 +51,10 @@ header[role=banner] h2 {
   border-right: 2px solid black;
   padding-right: 1em;
   margin-right: .7em;
+}
+
+.h-card .u-url {
+  margin-right: .5em;
 }
 
 .copyright {
