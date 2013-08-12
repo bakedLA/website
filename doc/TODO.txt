@@ -1,20 +1,3 @@
-set up analytics
-
-
-pages:
-home
-about
-contact
-
-pages:
-muffins
-cupcakes
-cakes
-pies
-cookies
-(breads)
-
-
 DELETE:
 bootstrap-responsive.css      (only for placeholder splash page)
 bootstrap-responsive.min.css  (only for placeholder splash page)
