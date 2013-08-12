@@ -1,3 +1,16 @@
 DELETE:
 bootstrap-responsive.css      (only for placeholder splash page)
 bootstrap-responsive.min.css  (only for placeholder splash page)
+
+Homepage:
+logo in nav
+space under banner photos
+resize 6x imgs on resize
+
+About:
+#contact
+
+Product pages:
+couple photos
+menu
+flavors only
