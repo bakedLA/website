@@ -85,4 +85,18 @@ footer {
 .flavors li:last-child:after {
   content: ".";
 }
+
+@media (max-width: 985px) {
+#product h1 small {
+  display: block;
+}
+
+#product .product-photo:first-child img {
+  display: block;
+}
+
+#product .product-photo img {
+  display: none;
+}
+}
 /* ...product pages */
