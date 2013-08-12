@@ -69,3 +69,25 @@ footer {
   margin: 4em 0 2em 0;
 }
 
+/* product pages... */
+#product img {
+  width: 100%;
+}
+
+#product h1 {
+  text-align: center;
+}
+
+.flavors,
+.flavors li {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+.flavors li:after {
+  content: ", ";
+}
+.flavors li:last-child:after {
+  content: ".";
+}
+/* ...product pages */
