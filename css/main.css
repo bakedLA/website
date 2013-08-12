@@ -15,11 +15,6 @@ header[role=banner] h2 {
   font-size: 2em;
 }
 
-#homepage-carousel {
-  margin-top: .25em;
-  background: #222; /* TEMP FIXME for mobile, the text isn't lining up on top of the photo */
-}
-
 @media (max-width: 979px) {
   .yumming-soon {
     font-size: 1.5em;
