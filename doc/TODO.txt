@@ -11,12 +11,3 @@ resize 6x imgs on resize
 
 about:
 #contact
-
-cookies:
-- correct flavors
-
-cakes:
-- correct flavors
-
-cupcakes:
-- correct flavors
