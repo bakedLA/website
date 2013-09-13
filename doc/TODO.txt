@@ -6,7 +6,6 @@ bootstrap-responsive.min.css  (only for placeholder splash page)
 
 
 home:
-logo in nav
 fix auto animate
 center img in carosel
 get captions for carosel
