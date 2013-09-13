@@ -7,7 +7,6 @@ bootstrap-responsive.min.css  (only for placeholder splash page)
 
 home:
 logo in nav
-resize 6x imgs on resize
 
 about:
 #contact
