@@ -64,6 +64,12 @@ footer {
   margin: 4em 0 2em 0;
 }
 
+/* home page...*/
+.thumbnail {
+  margin-bottom: 2em;
+}
+/* ...home page*/
+
 /* product pages... */
 #product img {
   width: 100%;
