@@ -9,12 +9,12 @@ resize 6x imgs on resize
 About:
 #contact
 
-note:
-  blurbs:
-  Would you both take a look, edit things if you think some words would be better to use, use them.
 
-  - Cakes – An assortment of moist and delicious cakes, fill it with fresh organic fruit or let us top it with a layer of our rich, creamy, world famous vegan frosting.
-  - Cupcakes – Single serving size of our cakes, beautifully toped with a fluffy dollop of our amazing frosting and a little extra flair.
-  - Pies – The classic pastry crust goes vegan, with all the favorite fillings your grandma used to make, plus a few she probably didn’t.
-  - Muffins – Moist, fluffy and a crispy, crunchy top our muffins are available in varieties that are good for breakfast, snacks or dessert.
-  - Cookies – Our classic cookies are all from old family recipes that have been veganized to perfection.  From big, chewy chocolate chip, to sweet and salty peanut butter, we have a cookie for everyone.
+Cakes:
+An assortment of moist and delicious cakes, fill it with fresh organic fruit or let us top it with a layer of our rich, creamy, world famous vegan frosting.
+
+Cupcakes:
+Single serving size of our cakes, beautifully toped with a fluffy dollop of our amazing frosting and a little extra flair.
+
+Cookies:
+Our classic cookies are all from old family recipes that have been veganized to perfection.  From big, chewy chocolate chip, to sweet and salty peanut butter, we have a cookie for everyone.
