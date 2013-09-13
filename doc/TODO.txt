@@ -13,13 +13,10 @@ about:
 #contact
 
 cookies:
-- upload images
 - correct flavors
 
 cakes:
-- upload images
 - correct flavors
 
 cupcakes:
-- upload images
 - correct flavors
