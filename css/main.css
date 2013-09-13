@@ -70,14 +70,6 @@ footer {
   text-indent: -999em;
   width: 150px;
 }
-
-@media only screen and (-webkit-min-device-pixel-ratio: 2) {
-  .navbar-brand {
-    background: url(/img/logo@2x.png) no-repeat left center;
-    width: 300px;
-  }
-}
-
 /* ...global nav */
 
 /* home page...*/
