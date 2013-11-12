@@ -1,19 +1,23 @@
 DELETE:
-bootstrap-responsive.css      (only for placeholder splash page)
-bootstrap-responsive.min.css  (only for placeholder splash page)
+- bootstrap-responsive.css      (only for placeholder splash page)
+- bootstrap-responsive.min.css  (only for placeholder splash page)
 
 
-
+*:
+- remove pricing
+- show flavors/photos
+- fix nav on desktop
 
 home:
-fix auto animate
-un-disappear nav items
-remove bottom spacing of carousel on narrow windows
+- fix auto animate
+- un-disappear nav items
+- remove bottom spacing of carousel on narrow windows
 
 
 FROM ADAM:
-get captions for carousel
+- get captions for carousel
+- get phone number
 
 
 about:
-#contact
+- #contact
