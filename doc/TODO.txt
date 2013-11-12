@@ -8,10 +8,11 @@ bootstrap-responsive.min.css  (only for placeholder splash page)
 home:
 fix auto animate
 un-disappear nav items
+remove bottom spacing of carousel on narrow windows
 
 
 FROM ADAM:
-get captions for carosel
+get captions for carousel
 
 
 about:
