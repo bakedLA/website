@@ -5,7 +5,7 @@ DELETE:
 
 *:
 - show flavors/photos
-- fix nav on desktop
+- fix logo/about in mobile nav
 
 home:
 - fix auto animate
