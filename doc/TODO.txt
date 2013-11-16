@@ -6,6 +6,7 @@ DELETE:
 *:
 - show flavors/photos
 - fix logo/about in mobile nav
+- add grid of flavor photos to product pages
 
 home:
 - fix auto animate
