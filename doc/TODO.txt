@@ -3,9 +3,9 @@ DELETE:
 - bootstrap-responsive.min.css  (only for placeholder splash page)
 
 
-*:
-- show flavors/photos
-- add grid of flavor photos to product pages
+products:
+- add grid of flavor photos
 
 FROM ADAM:
 - get captions for carousel
+- get photos of flavors for product pages
