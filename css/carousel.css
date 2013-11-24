@@ -133,10 +133,3 @@ body {
   }
 
 }
-
-@media (max-width: 760px) {
-  .carousel .item,
-  .carousel img {
-    height: 240px;
-  }
-}

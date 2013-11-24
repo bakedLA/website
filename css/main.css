@@ -121,3 +121,17 @@ footer {
   }
 }
 /* ...product pages */
+
+/* bootstrap overrides... */
+@media (max-width: 760px) {
+  .carousel .item,
+  .carousel img {
+    height: 240px;
+  }
+}
+
+.carousel {
+  /* no top margin because .carousel was overlaying on top of .navbar */
+  margin-top: 0;
+}
+/* ...bootstrap overrides */
