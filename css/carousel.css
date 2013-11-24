@@ -133,3 +133,9 @@ body {
   }
 
 }
+
+@media (min-width: 768px) {
+  .carousel-caption {
+    outline: 1px solid red;
+  }
+}
