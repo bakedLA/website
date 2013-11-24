@@ -7,9 +7,5 @@ DELETE:
 - show flavors/photos
 - add grid of flavor photos to product pages
 
-home:
-- remove bottom spacing of carousel on narrow windows
-
-
 FROM ADAM:
 - get captions for carousel
