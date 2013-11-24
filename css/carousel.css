@@ -137,7 +137,7 @@ body {
 @media (max-width: 760px) {
   .carousel-caption {
     top: 10px;
-    height: auto;
+    height: 10px;
     outline: 1px solid red;
   }
 }
